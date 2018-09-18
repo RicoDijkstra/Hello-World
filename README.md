@@ -1,7 +1,9 @@
 # Hello-World
 Hallo ik ben Rico Dijkstra (15) 
 Hobby's:
+
 Gamen 
+
 Voetballen
 
 Mijn verhaal:
