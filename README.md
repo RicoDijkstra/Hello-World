@@ -1,5 +1,6 @@
 # Hello-World
 Hallo ik ben Rico Dijkstra (15) Ik woon in Aalsmeer. Ik woon samen met mijn ouders en ik heb 1 broer (19).
+
 Hobby's:
 
 -Gamen 
