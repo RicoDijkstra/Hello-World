@@ -3,11 +3,11 @@ Hallo ik ben Rico Dijkstra (15) Ik woon in Aalsmeer. Ik woon samen met mijn oude
 
 Hobby's:
 
--Gamen 
+-Gamen Favo game: Realm Royale en Cod4
 
--Voetballen
+-Voetballen Club https://www.fcaalsmeer.nl/
 
--Sportschool
+-Sportschool https://fitness-aalsmeer.nl/
 
 
 Mijn verhaal:
