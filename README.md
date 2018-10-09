@@ -4,3 +4,6 @@
 <https://www.robomindacademy.com/go/robomind/home>
 #### etc
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Bieks logo")
+Fav games:
+1. overwatch
+2. Realm Royale
